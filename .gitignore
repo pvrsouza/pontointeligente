@@ -41,6 +41,7 @@ Icon
 ### Gradle ###
 # Exclude Folder List #
 build/
+out/
 
 
 ### Eclipse ###
