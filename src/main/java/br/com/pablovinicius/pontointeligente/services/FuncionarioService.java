@@ -30,4 +30,7 @@ public interface FuncionarioService {
 	 * @return Optional<Funcionario>
 	 */
 	Optional<Funcionario> buscarPorEmail(String email);
+
+
+	Optional<Funcionario> buscarPorId(Long id);
 }
